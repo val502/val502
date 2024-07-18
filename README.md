@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @val502
-- 👀 I’m interested in coding, swimming and being a high school senior
 - 🌱 I’m currently learning Swift, SQL, and Lua
 - 💞️ I’m working on my portfolio for college 
 - 📫 How to reach me : discord @howdyambi
