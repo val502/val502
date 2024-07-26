@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @val502
 - 🌱 I’m currently learning Swift, SQL, and Lua
-- 💞️ I’m working on my portfolio for college 
+- 💞️ I’m working on an HTML and CSS practice project called Booki from Open Classrooms 
 - 📫 How to reach me : discord @howdyambi
 - 😄 Pronouns: she/her ... or she/they
 - ⚡ Fun fact: I am going back to Mexico summer '25
