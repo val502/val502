@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @val502
-- 🌱 I’m currently learning Swift, SQL, and Lua
+- 🌱 I’m currently learning Swift, SQL, and relearning Python
 - 📫 How to reach me : discord @howdyambi
 - 😄 Pronouns: he/him
 
