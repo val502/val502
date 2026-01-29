@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @val502
-- 🌱 I’m currently learning Swift, SQL, and relearning Python
-- 📫 How to reach me : discord @howdyambi
+- 👋 Hi, I’m Val
+- 🌱 I’m currently learning Swift and practicing SQL
+- 📫 How to reach me : discord @howdyambi, email: valeryromano12315@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
